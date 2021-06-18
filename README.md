@@ -8,4 +8,5 @@ Secondly, sentiment analysis is done on the headlines of the stocks data in orde
 Both the analysis is merged to get a combined analysis of the BSE data.
 
 Dataset : Numerical Analysis : https://finance.yahoo.com/
+          
           Textual Analysis : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DPQMQH
