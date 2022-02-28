@@ -9,4 +9,8 @@ Both the analysis is merged to get a combined analysis of the BSE data.
 
 Dataset : Numerical Analysis : https://finance.yahoo.com/
          
-   Textual Analysis : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DPQMQH
+Textual Analysis : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DPQMQH
+   
+   
+![download (4)](https://user-images.githubusercontent.com/41074452/156035680-a3524b86-ec47-487f-b219-4ee3c0224812.png)
+
